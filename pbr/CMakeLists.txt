@@ -1,0 +1,5 @@
+add_subdirectory(common)
+add_subdirectory(dielectric)
+add_subdirectory(direct)
+add_subdirectory(path)
+add_subdirectory(pointlight)
